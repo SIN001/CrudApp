@@ -9,7 +9,9 @@
     "start": "node app"
   },
   "dependencies": {
+    "async": "^2.6.0",
     "aws-sdk": "^2.181.0",
+    "edit-google-spreadsheet": "^0.3.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "mongoose": "^4.13.3",

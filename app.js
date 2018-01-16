@@ -2,8 +2,8 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
 var objectId = require('objectid');
-var accessKey = "AKIAJIGFF6OGV5JWZMTQ";
-var secretKey = "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";
+var accessKey = "AKIAIFFES4N5PHGKPK4A";
+var secretKey = "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";
 
 var AWS = require("aws-sdk");
 
